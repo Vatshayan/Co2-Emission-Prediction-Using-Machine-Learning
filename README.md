@@ -1,10 +1,12 @@
 # Co2-Emission-Prediction-Using-Machine-Learning
 Final year Co2 Emission Prediction Using Machine Learning Project
 
-Youtube Implementation explanation : 
+Youtube Implementation explanation : https://youtu.be/G05B-uG6PcY
+
 
 ![Black Finance Money Coach YouTube Thumbnail](https://user-images.githubusercontent.com/28294942/208299271-c3f6fe55-6182-483d-a35e-05bc2d2415d1.png)
 
+Note : If project doesnrt work on your sytem or If you get any errors. Let me know will help you.
 ## Want Project files ? 
 
 **You Can use this Beautiful Project for your college Project and get good marks too.**
